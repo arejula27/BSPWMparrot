@@ -2,7 +2,7 @@
 
 1.- Uso del Script
 
-git clone https://github.com/xJackSx/BSPWMparrot.git
+git clone https://github.com/arejula27/BSPWMparrot.git
 
 cd BSPWMparrot
 
